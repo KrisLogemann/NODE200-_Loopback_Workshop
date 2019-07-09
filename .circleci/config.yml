@@ -5,7 +5,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/node:10.15.3
 
-    working_directory: ~/ra-node200-loopback-workshop
+    working_directory: ~/kl-loopback-workshop
 
     steps:
       - checkout
